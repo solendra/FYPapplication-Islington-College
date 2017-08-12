@@ -1,0 +1,9 @@
+.login-box, .register-box {
+    width: 600px;
+    margin: 7% auto;
+}
+
+#main_row
+{
+  min-height: 490px;
+}
